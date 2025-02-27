@@ -1,0 +1,13 @@
+backend/
+│── src/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── utils/
+│   ├── index.ts
+│── package.json
+│── tsconfig.json
+│── .gitignore
+│── .env
